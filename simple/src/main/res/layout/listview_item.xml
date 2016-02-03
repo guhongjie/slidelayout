@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guhj.github.slidelayout.SlideLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@id/sl_slideBindingId"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@id/sl_contentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@android:color/white">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@id/sl_leftLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_delete_1"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/sel_transparent"
+            android:scaleType="fitCenter"
+            android:src="@mipmap/ic_delete" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@id/sl_rightLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_edit"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/sel_transparent"
+            android:scaleType="fitCenter"
+            android:src="@mipmap/ic_edit" />
+
+        <ImageView
+            android:id="@+id/iv_delete_2"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/sel_transparent"
+            android:scaleType="fitCenter"
+            android:src="@mipmap/ic_delete" />
+    </LinearLayout>
+</guhj.github.slidelayout.SlideLayout>
