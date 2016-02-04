@@ -2,8 +2,10 @@
 安卓侧滑布局
 
 效果图：
+
 ![slidelayout](https://raw.githubusercontent.com/guhongjie/slidelayout/master/img/image.jpg)
-###支持ListView中同时滑动和只允许滑动出一个
+
+支持ListView中同时滑动和只允许滑动出一个
 
 使用方法：
 
