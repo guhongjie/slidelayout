@@ -6,6 +6,7 @@
 使用方法：
 
 直接在xml中使用：
+`
             <guhj.github.slidelayout.SlideLayout 
                 android:id="@id/sl_slideBindingId"
                 android:layout_width="match_parent"
@@ -30,3 +31,4 @@
                     android:layout_width="80dp"
                     android:layout_height="match_parent"/>
             </guhj.github.slidelayout.SlideLayout>
+`
