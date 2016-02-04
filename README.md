@@ -3,7 +3,7 @@
 
 效果图：
 
-![slidelayout](https://raw.githubusercontent.com/guhongjie/slidelayout/master/img/image.jpg)
+//![slidelayout](https://raw.githubusercontent.com/guhongjie/slidelayout/master/img/image.jpg)
 
 使用方法：
 
