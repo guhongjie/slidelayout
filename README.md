@@ -7,7 +7,7 @@
 
 使用方法：
 
-直接在xml中使用，滑动范围由：
+直接在xml中使用：
       <guhj.github.slidelayout.SlideLayout 
           android:id="@id/sl_slideBindingId"
           android:layout_width="match_parent"
