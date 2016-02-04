@@ -31,4 +31,4 @@
                     android:layout_width="80dp"
                     android:layout_height="match_parent"/>
             </guhj.github.slidelayout.SlideLayout>
-`
+
